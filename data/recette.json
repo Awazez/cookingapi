@@ -1,0 +1,102 @@
+
+mexicain 
+
+poulet coco
+
+haché carré 
+
+merquez 
+
+poivron 
+
+cake lardon feta
+
+
+
+Croque monsieur 
+
+Saumon à la crème 
+Pâte au pesto 
+
+
+
+[
+    {
+      "Id": 1,
+      "Name": "Haché Carré",
+      "ingredients": [
+        {
+          "name": "Steack Haché",
+          "quantity": "2",
+        },
+        {
+            "name": "Pomme de terre carré",
+            "quantity": "400g",
+        },
+        {
+            "name": "Crème",
+            "quantity": "25ml",
+        },
+      ],
+      "KoreanStageName": "에이엠",
+      "DateOfBirth": "1996-12-31",
+      "Group": "Limitless",
+      "Country": "South Korea",
+      "Birthplace": "",
+      "2ndGroup": "",
+      "Gender": "M"
+    },
+    {
+        "Id": 2,
+        "Name": "Saumon à la crème ",
+        "ingredients": [
+            {
+              "name": "Saumon",
+              "quantity": "2",
+            },
+            {
+                "name": "Pomme de terre carré",
+                "quantity": "400g",
+            },
+            {
+                "name": "Crème",
+                "quantity": "25ml",
+            },
+          ],
+        "KoreanName": "성현우",
+        "KoreanStageName": "에이엠",
+        "DateOfBirth": "1996-12-31",
+        "Group": "Limitless",
+        "Country": "South Korea",
+        "Birthplace": "",
+        "2ndGroup": "",
+        "Gender": "M"
+      },
+      {
+        "Id": 3,
+        "Name": "Cake lardon feta",
+        "ingredients": [
+            {
+              "name": "Saumon",
+              "quantity": "2",
+            },
+            {
+                "name": "Pomme de terre carré",
+                "quantity": "400g",
+            },
+            {
+                "name": "Crème",
+                "quantity": "25ml",
+            },
+          ],
+        "KoreanName": "성현우",
+        "KoreanStageName": "에이엠",
+        "DateOfBirth": "1996-12-31",
+        "Group": "Limitless",
+        "Country": "South Korea",
+        "Birthplace": "",
+        "2ndGroup": "",
+        "Gender": "M"
+      },
+
+]

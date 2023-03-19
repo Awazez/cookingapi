@@ -30,16 +30,16 @@
         "ingredients": [
             {
               "name": "Saumon",
-              "quantity": "2",
+              "quantity": "2"
             },
             {
                 "name": "Pomme de terre carré",
-                "quantity": "400g",
+                "quantity": "400g"
             },
             {
                 "name": "Crème",
-                "quantity": "25ml",
-            },
+                "quantity": "25ml"
+            }
           ],
         "KoreanName": "성현우",
         "KoreanStageName": "에이엠",
@@ -56,16 +56,16 @@
         "ingredients": [
             {
               "name": "Saumon",
-              "quantity": "2",
+              "quantity": "2"
             },
             {
                 "name": "Pomme de terre carré",
-                "quantity": "400g",
+                "quantity": "400g"
             },
             {
                 "name": "Crème",
-                "quantity": "25ml",
-            },
+                "quantity": "25ml"
+            }
           ],
         "KoreanName": "성현우",
         "KoreanStageName": "에이엠",
@@ -82,15 +82,15 @@
         "ingredients": [
             {
               "name": "Filet de Poulet",
-              "quantity": "2",
+              "quantity": "2"
             },
             {
                 "name": "Citron vert",
-                "quantity": "1",
+                "quantity": "1"
             },
             {
                 "name": "Crème", 
-                "quantity": "25ml",
+                "quantity": "25ml"
             },
           ],
         "KoreanName": "성현우",
@@ -110,17 +110,17 @@
         "ingredients": [
             {
               "name": "Pâte",
-              "quantity": "400g",
+              "quantity": "400g"
             },
             {
                 "name": "Barilla Pesto alla Genovese senza aglio sans ail 190g",
-                "quantity": "1",
+                "quantity": "1"
             },
             {
                 "name": "Copeaux de parmesan", 
                 "quantity": "25",
                 "source":"https://www.youtube.com/watch?v=fYy5Jv4oJ3A&ab_channel=L%27atelierdesChefs"
-            },
+            }
           ],
         "KoreanName": "성현우",
         "KoreanStageName": "에이엠",

@@ -1,25 +1,3 @@
-
-mexicain 
-
-poulet coco
-
-haché carré 
-
-merquez 
-
-poivron 
-
-cake lardon feta
-
-
-
-Croque monsieur 
-
-Saumon à la crème 
-Pâte au pesto 
-
-
-
 [
     {
       "Id": 1,
@@ -27,16 +5,16 @@ Pâte au pesto
       "ingredients": [
         {
           "name": "Steack Haché",
-          "quantity": "2",
+          "quantity": "2"
         },
         {
             "name": "Pomme de terre carré",
-            "quantity": "400g",
+            "quantity": "400g"
         },
         {
             "name": "Crème",
-            "quantity": "25ml",
-        },
+            "quantity": "25ml"
+        }
       ],
       "KoreanStageName": "에이엠",
       "DateOfBirth": "1996-12-31",

@@ -1,135 +1,80 @@
+
 [
-    {
-      "Id": 1,
-      "Name": "Haché Carré",
-      "ingredients": [
-        {
-          "name": "Steack Haché",
-          "quantity": "2"
-        },
-        {
-            "name": "Pomme de terre carré",
-            "quantity": "400g"
-        },
-        {
-            "name": "Crème",
-            "quantity": "25ml"
-        }
-      ],
-      "KoreanStageName": "에이엠",
-      "DateOfBirth": "1996-12-31",
-      "Group": "Limitless",
-      "Country": "South Korea",
-      "Birthplace": "",
-      "2ndGroup": "",
-      "Gender": "M"
-    },
-    {
-        "Id": 2,
-        "Name": "Saumon à la crème ",
-        "ingredients": [
-            {
-              "name": "Saumon",
-              "quantity": "2"
-            },
-            {
-                "name": "Pomme de terre carré",
-                "quantity": "400g"
-            },
-            {
-                "name": "Crème",
-                "quantity": "25ml"
-            }
-          ],
-        "KoreanName": "성현우",
-        "KoreanStageName": "에이엠",
-        "DateOfBirth": "1996-12-31",
-        "Group": "Limitless",
-        "Country": "South Korea",
-        "Birthplace": "",
-        "2ndGroup": "",
-        "Gender": "M"
-      },
-      {
-        "Id": 3,
-        "Name": "Cake lardon feta",
-        "ingredients": [
-            {
-              "name": "Saumon",
-              "quantity": "2"
-            },
-            {
-                "name": "Pomme de terre carré",
-                "quantity": "400g"
-            },
-            {
-                "name": "Crème",
-                "quantity": "25ml"
-            }
-          ],
-        "KoreanName": "성현우",
-        "KoreanStageName": "에이엠",
-        "DateOfBirth": "1996-12-31",
-        "Group": "Limitless",
-        "Country": "South Korea",
-        "Birthplace": "",
-        "2ndGroup": "",
-        "Gender": "M"
-      },
-      {
-        "Id": 4,
-        "Name": "Poulet coco mariné au citron vert",
-        "ingredients": [
-            {
-              "name": "Filet de Poulet",
-              "quantity": "2"
-            },
-            {
-                "name": "Citron vert",
-                "quantity": "1"
-            },
-            {
-                "name": "Crème", 
-                "quantity": "25ml"
-            },
-          ],
-        "KoreanName": "성현우",
-        "KoreanStageName": "에이엠",
-        "DateOfBirth": "1996-12-31",
-        "Group": "Limitless",
-        "Country": "South Korea",
-        "Birthplace": "",
-        "2ndGroup": "",
-        "Gender": "M"
-      },
 
-      {
-        "Id": 5,
-        "Name": "Pâte au pesto",
-        "servings": "2",
-        "ingredients": [
-            {
-              "name": "Pâte",
-              "quantity": "400g"
-            },
-            {
-                "name": "Barilla Pesto alla Genovese senza aglio sans ail 190g",
-                "quantity": "1"
-            },
-            {
-                "name": "Copeaux de parmesan", 
-                "quantity": "25",
-                "source":"https://www.youtube.com/watch?v=fYy5Jv4oJ3A&ab_channel=L%27atelierdesChefs"
-            }
-          ],
-        "KoreanName": "성현우",
-        "KoreanStageName": "에이엠",
-        "DateOfBirth": "1996-12-31",
-        "Group": "Limitless",
-        "Country": "South Korea",
-        "Birthplace": "",
-        "2ndGroup": "",
-        "Gender": "M"
-      },
+  {
+  "id":1, 
+  "name":"Haché Carré Portbaillais",
+  "category":"Junk Food",
+  "description":"Le Haché Carré Portbaillais est un plat délicieux et facile à préparer, parfait pour un repas rapide en semaine. La recette consiste à utiliser des pommes de terre carrées surgelées et des steaks hachés coupés en petits morceaux, cuits avec de la crème pour créer une sauce crémeuse et savoureuse. "
+  },
+  {
+  "id":2, 
+  "name":"Saumon à la crème",
+  "category":"Poisson",
+  "description":"Le saumon à la crème est un plat raffiné mettant en valeur la saveur délicate du poisson. Cette recette Saint-Loise utilise une crème onctueuse pour créer une sauce riche accompagnant parfaitement le saumon de Cherbourg. Simple à préparer, ce plat est parfait pour un dîner spécial ou une occasion spéciale."
+  },
+  {
+  "id":3, 
+  "name":"Cake lardon feta",
+  "category":"Cake",
+  "description":"Le cake lardon feta est une délicieuse recette salée à base de pâte à cake, de lardons et de feta. Simple à préparer, il peut être servi en tranches pour un apéritif ou un déjeuner sur le pouce. La combinaison de la feta salée et des lardons fumés en fait un plat savoureux et satisfaisant."
+  },
+  {
+  "id":4, 
+  "name":"Pâte au pesto verde",
+  "category":"Pâte",
+  "description":"Les pâtes au pesto sont une recette italienne classique et simple, composée de pâtes cuites al dente et mélangées avec une sauce pesto fraîche à base de basilic, d'ail, de pignons de pin, d'huile d'olive et de parmesan râpé. Ce plat savoureux et facile à préparer est parfait pour un déjeuner rapide ou un dîner léger en semaine."
+  },
+  {
+  "id":5, 
+  "name":"Poulet coco mariné au citron vert",
+  "category":"Plat en sauce",
+  "description":"Le poulet coco mariné au citron vert est un plat délicieux et exotique, inspiré de la cuisine asiatique. Le poulet est mariné dans un mélange de lait de coco, de citron vert et de gingembre pour donner une saveur tendre et juteuse. Ce plat peut être servi avec du riz ou des légumes sautés pour un repas complet et sain."
+  },
+  {
+  "id":6, 
+  "name":"Macro à la moutarde",
+  "category":"Poisson",
+  "description":"Le macron moutarde est une recette simple et délicieuse qui met en valeur la saveur subtile du poisson. Les filets de macron sont enrobés de moutarde et de chapelure, puis cuits au four pour créer une croûte dorée et croustillante. Ce plat peut être servi avec des légumes ou des pommes de terre pour un repas sain et satisfaisant."
+  },
+  {
+  "id":7, 
+  "name":"Pâte au pesto roso",
+  "category":"Pâte",
+  "description":"Les pâtes au pesto sont une recette italienne classique et simple, composée de pâtes cuites al dente et mélangées avec une sauce pesto fraîche à base de basilic, d'ail, de pignons de pin, d'huile d'olive et de parmesan râpé. Ce plat savoureux et facile à préparer est parfait pour un déjeuner rapide ou un dîner léger en semaine."
+  }, 
+  {
+  "id":8, 
+  "name":"Cake lardon petit pois",
+  "category":"Cake",
+  "description":"Le cake aux lardons et petits pois est une recette salée facile à préparer, idéale pour un déjeuner rapide ou un apéritif. Le mélange de lardons fumés et de petits pois ajoute une texture croquante et une saveur douce et salée à la pâte à cake. Ce plat peut être servi en tranches et accompagné d'une salade verte pour un repas léger et savoureux."
+  }, 
+  {
+  "id":9, 
+  "name":"Cake lardon tomates séchées",
+  "category":"Cake",
+  "description":"Le cake aux lardons et tomates séchées est une recette simple mais délicieuse, parfaite pour un apéritif ou un déjeuner rapide. Les lardons fumés et les tomates séchées ajoutent une saveur salée et umami à la pâte à cake moelleuse. Ce plat peut être servi en tranches avec une salade verte ou en apéritif coupé en petits cubes."
+  }, 
+  {
+  "id":10, 
+  "name":"Quiche Lorraine",
+  "category":"Quiche",
+  "description":"La quiche lorraine est une spécialité française classique, composée d'une pâte brisée croustillante et d'une garniture riche en oeufs, en crème fraîche, en lardons et en fromage. Cette tarte salée cuite au four est savoureuse et consistante, parfaite pour un déjeuner ou un dîner facile à préparer. Elle peut être servie chaude ou froide avec une salade verte pour un repas complet et équilibré."
+  }, 
+  {
+  "id":11, 
+  "name":"Quiche au poireau et au lardon",
+  "category":"Quiche",
+  "description":"La quiche aux poireaux et aux lardons est une variante savoureuse de la quiche traditionnelle. Elle est composée d'une pâte brisée croustillante, garnie d'une délicieuse combinaison de poireaux fondants, de lardons fumés et d'une crème riche en oeufs. Ce plat peut être servi chaud ou froid, en tranches, accompagné d'une salade verte pour un repas simple et délicieux."
+  },
+  {
+    "id":12, 
+    "name":"Semoule Oeuf",
+    "category":"Sur le pouce",
+    "description":"L'association d'un œuf et de la semoule est une recette simple et rapide à préparer. La semoule est cuite dans de l'eau bouillante avant d'être assaisonnée de beurre et de sel. Un œuf poché est ensuite ajouté pour apporter une texture crémeuse et une dose supplémentaire de protéines. Ce plat est parfait pour un petit déjeuner nourrissant ou pour un repas rapide et facile à préparer."
+    }
+  ]
 
-]
+
+  
+  

@@ -1,11 +1,20 @@
 const express = require('express');
-const app = require('./app');
+const cors = require("cors")
 
-const bodyParser = require('body-parser');
-const cors = require('cors');
+const foo = require('./data/recette.json');
 
-app.use(cors());
-app.use(bodyParser.json());
+
+const app = express();
+
+app.use(cors({
+  origin: '*'
+}));
+
+app.get('/', (req, res) => {
+  return res.send(foo);
+});
+
+
 
 // NOTE - run 'nodemon server' to start server (live update) or node server.js
 const PORT = 3000;

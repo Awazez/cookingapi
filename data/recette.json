@@ -72,7 +72,13 @@
     "name":"Semoule Oeuf",
     "category":"Sur le pouce",
     "description":"L'association d'un œuf et de la semoule est une recette simple et rapide à préparer. La semoule est cuite dans de l'eau bouillante avant d'être assaisonnée de beurre et de sel. Un œuf poché est ensuite ajouté pour apporter une texture crémeuse et une dose supplémentaire de protéines. Ce plat est parfait pour un petit déjeuner nourrissant ou pour un repas rapide et facile à préparer."
-    }
+    },
+    {
+      "id":13, 
+      "name":"Lasagne ricotta epinard",
+      "category":"Pâte",
+      "description":"Les lasagnes à la ricotta et aux épinards sont une alternative délicieuse aux traditionnelles lasagnes à la viande. Les épinards frais sont mélangés à une onctueuse ricotta, puis superposés entre les feuilles de lasagne pour créer un plat savoureux et réconfortant. Cette recette peut être personnalisée avec l'ajout de légumes supplémentaires ou de différentes herbes pour un plat savoureux et sain."
+      }
   ]
 
 

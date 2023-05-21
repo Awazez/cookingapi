@@ -15,9 +15,9 @@
   },
   {
   "id":3, 
-  "name":"Cake lardon feta",
+  "name":"Cake tomate séché feta",
   "category":"Cake",
-  "description":"Le cake lardon feta est une délicieuse recette salée à base de pâte à cake, de lardons et de feta. Simple à préparer, il peut être servi en tranches pour un apéritif ou un déjeuner sur le pouce. La combinaison de la feta salée et des lardons fumés en fait un plat savoureux et satisfaisant."
+  "description":"*"
   },
   {
   "id":4, 
@@ -41,8 +41,14 @@
   "id":7, 
   "name":"Pâte au pesto roso",
   "category":"Pâte",
-  "description":"Les pâtes au pesto sont une recette italienne classique et simple, composée de pâtes cuites al dente et mélangées avec une sauce pesto fraîche à base de basilic, d'ail, de pignons de pin, d'huile d'olive et de parmesan râpé. Ce plat savoureux et facile à préparer est parfait pour un déjeuner rapide ou un dîner léger en semaine."
-  }, 
+  "description":"Les pâtes au pesto sont une recette italienne classique et simple, composée de pâtes cuites al dente et mélangées avec une sauce pesto fraîche à base de basilic, d'ail, de pignons de pin, d'huile d'olive et de parmesan râpé. Ce plat savoureux et facile à préparer est parfait pour un déjeuner rapide ou un dîner léger en semaine.",
+  "ingrédient": [
+    {
+      "pâte": 60,
+      "Pôt de pesto": 0.5,
+      "Parmesan":20  
+    }
+  ]},
   {
   "id":8, 
   "name":"Cake lardon petit pois",

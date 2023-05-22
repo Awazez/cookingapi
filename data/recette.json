@@ -34,8 +34,9 @@
   "id":5, 
   "name":"Poulet coco mariné",
   "category":"Plat en sauce",
-  "description":"Le poulet coco mariné au citron vert est un plat délicieux et exotique, inspiré de la cuisine asiatique. Le poulet est mariné dans un mélange de lait de coco, de citron vert et de gingembre pour donner une saveur tendre et juteuse. Ce plat peut être servi avec du riz ou des légumes sautés pour un repas complet et sain."
-  },
+  "description":"Le poulet coco mariné au citron vert est un plat délicieux et exotique, inspiré de la cuisine asiatique. Le poulet est mariné dans un mélange de lait de coco, de citron vert et de gingembre pour donner une saveur tendre et juteuse. Ce plat peut être servi avec du riz ou des légumes sautés pour un repas complet et sain.",
+  "image":"https://img.cuisineaz.com/660x660/2016/05/27/i93445-poulet-marine.jpg"
+},
   {
   "id":6, 
   "name":"Macro à la moutarde",

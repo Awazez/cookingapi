@@ -1,7 +1,6 @@
 const express = require('express');
 const cors = require("cors")
-
-const foo = require('./data/recette.json');
+const data = require('./data/recette.json');
 
 
 const app = express();
@@ -11,7 +10,7 @@ app.use(cors({
 }));
 
 app.get('/', (req, res) => {
-  return res.send(foo);
+  return res.send(data);
 });
 
 

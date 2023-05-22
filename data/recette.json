@@ -11,8 +11,10 @@
   "id":2, 
   "name":"Saumon à la crème",
   "category":"Poisson",
-  "description":"Le saumon à la crème est un plat raffiné mettant en valeur la saveur délicate du poisson. Cette recette Saint-Loise utilise une crème onctueuse pour créer une sauce riche accompagnant parfaitement le saumon de Cherbourg. Simple à préparer, ce plat est parfait pour un dîner spécial ou une occasion spéciale."
-  },
+  "description":"Le saumon à la crème est un plat raffiné mettant en valeur la saveur délicate du poisson. Cette recette Saint-Loise utilise une crème onctueuse pour créer une sauce riche accompagnant parfaitement le saumon de Cherbourg. Simple à préparer, ce plat est parfait pour un dîner spécial ou une occasion spéciale.",
+  "image":"https://cdn.pratico-pratiques.com/app/uploads/sites/3/2021/03/30104302/saumon-en-sauce-cremeuse-dans-la-poele.jpg"
+  
+},
   {
   "id":3, 
   "name":"Cake tomate séché feta",

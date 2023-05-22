@@ -32,7 +32,7 @@
   },
   {
   "id":5, 
-  "name":"Poulet coco mariné au citron vert",
+  "name":"Poulet coco mariné",
   "category":"Plat en sauce",
   "description":"Le poulet coco mariné au citron vert est un plat délicieux et exotique, inspiré de la cuisine asiatique. Le poulet est mariné dans un mélange de lait de coco, de citron vert et de gingembre pour donner une saveur tendre et juteuse. Ce plat peut être servi avec du riz ou des légumes sautés pour un repas complet et sain."
   },
@@ -62,7 +62,7 @@
   }, 
   {
   "id":9, 
-  "name":"Cake lardon tomates séchées",
+  "name":"Cake tomates séchées",
   "category":"Cake",
   "description":"Le cake aux lardons et tomates séchées est une recette simple mais délicieuse, parfaite pour un apéritif ou un déjeuner rapide. Les lardons fumés et les tomates séchées ajoutent une saveur salée et umami à la pâte à cake moelleuse. Ce plat peut être servi en tranches avec une salade verte ou en apéritif coupé en petits cubes."
   }, 
@@ -92,7 +92,7 @@
       },
         {
           "id":14, 
-          "name":"Haché Carré Portbaillais",
+          "name":"Haché Carré",
           "category":"Junk Food",
           "description":"Le Haché Carré Portbaillais est un plat délicieux et facile à préparer, parfait pour un repas rapide en semaine. La recette consiste à utiliser des pommes de terre carrées surgelées et des steaks hachés coupés en petits morceaux, cuits avec de la crème pour créer une sauce crémeuse et savoureuse. "
           }

@@ -1,13 +1,12 @@
 
 [
-  
-  
   {
-  "id":1, 
-  "name":"Haché Carré Portbaillais",
-  "category":"Junk Food",
-  "description":"Le Haché Carré Portbaillais est un plat délicieux et facile à préparer, parfait pour un repas rapide en semaine. La recette consiste à utiliser des pommes de terre carrées surgelées et des steaks hachés coupés en petits morceaux, cuits avec de la crème pour créer une sauce crémeuse et savoureuse. "
-  },
+    "id":1, 
+    "name":"Bouillon de poulet curry",
+    "category":"Junk Food",
+    "description":"Le Haché Carré Portbaillais est un plat délicieux et facile à préparer, parfait pour un repas rapide en semaine. La recette consiste à utiliser des pommes de terre carrées surgelées et des steaks hachés coupés en petits morceaux, cuits avec de la crème pour créer une sauce crémeuse et savoureuse.",
+    "image":"https://jow.fr/_next/image?url=https%3A%2F%2Fstatic.jow.fr%2F880x880%2Frecipes%2FDakJ1PehZ3Ni1w.png&w=2560&q=100"
+    },
   {
   "id":2, 
   "name":"Saumon à la crème",
@@ -86,13 +85,12 @@
       "category":"Pâte",
       "description":"Les lasagnes à la ricotta et aux épinards sont une alternative délicieuse aux traditionnelles lasagnes à la viande. Les épinards frais sont mélangés à une onctueuse ricotta, puis superposés entre les feuilles de lasagne pour créer un plat savoureux et réconfortant. Cette recette peut être personnalisée avec l'ajout de légumes supplémentaires ou de différentes herbes pour un plat savoureux et sain."
       },
-      {
-        "id":14, 
-        "name":"Bouillon de poulet curry",
-        "category":"Junk Food",
-        "description":"Le Haché Carré Portbaillais est un plat délicieux et facile à préparer, parfait pour un repas rapide en semaine. La recette consiste à utiliser des pommes de terre carrées surgelées et des steaks hachés coupés en petits morceaux, cuits avec de la crème pour créer une sauce crémeuse et savoureuse.",
-        "image":"https://jow.fr/_next/image?url=https%3A%2F%2Fstatic.jow.fr%2F880x880%2Frecipes%2FDakJ1PehZ3Ni1w.png&w=2560&q=100"
-        }
+        {
+          "id":14, 
+          "name":"Haché Carré Portbaillais",
+          "category":"Junk Food",
+          "description":"Le Haché Carré Portbaillais est un plat délicieux et facile à préparer, parfait pour un repas rapide en semaine. La recette consiste à utiliser des pommes de terre carrées surgelées et des steaks hachés coupés en petits morceaux, cuits avec de la crème pour créer une sauce crémeuse et savoureuse. "
+          }
   ]
 
 
